@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CI/CD View"
+    id="ac0704fe-b4a1-4b63-9f85-21d6ec0c9d01">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="c7a8447b-0074-4e4b-aaf0-f040928b6ae0">
+    <bounds
+        x="264"
+        y="120"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_df3c3cea-a79b-4ec5-9e01-7fb1d71fe93d.xml#df3c3cea-a79b-4ec5-9e01-7fb1d71fe93d"/>
+  </children>
+</archimate:ArchimateDiagramModel>
